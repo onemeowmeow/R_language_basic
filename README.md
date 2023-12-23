@@ -1,4 +1,3 @@
-# R_language_work
 # R Language
 
 ## 基本介紹
