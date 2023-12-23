@@ -281,4 +281,4 @@ final.data_1 %<>% mutate(輸出欄位名 , 目標欄位名1 * 目標欄位名2 )
 
 ☀️ **`%<>%`  :** 改變物件內容
 
-[Final](https://www.notion.so/Final-4b0051ff39ec4e2f9e5af67def7cad19?pvs=21)
+
